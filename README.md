@@ -1,7 +1,7 @@
 # MySQL-Live-Toggle-Task
  A simple full-stack web application that connects a frontend interface (HTML, CSS, JavaScript) with a MySQL database using PHP. It allows users to insert new records and dynamically toggle their status without reloading the page.
 
-🔗 Live Project Link: [Click here]((https://first-task.infinityfreeapp.com/))
+🔗 Live Project Link: [Click here to visit the live website]([PASTE_YOUR_INFINITYFREE_LINK_HERE](https://first-task.infinityfreeapp.com/))
 
 
 ## Tech Stack
@@ -31,7 +31,5 @@
 ![Database Screenshot](db_screenshot.png) 
 
 ## Application Preview
-![App Screenshot](screenshot1.png)
+![App Screenshot](ٍScreenshot1.png)
 
-## Application Preview
-![App Screenshot](screenshot.png)
