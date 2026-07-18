@@ -31,5 +31,5 @@
 ![Database Screenshot](db_screenshot.png) 
 
 ## Application Preview
-![App Screenshot](ٍScreenshot1.png)
+![App Screenshot](Screenshot1.png)
 
